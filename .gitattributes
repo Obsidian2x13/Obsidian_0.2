@@ -13,3 +13,10 @@
 *.jpg -text
 *.exe -text
 *.dll -text
+*.zip -text
+*.7z  -text
+*.pdf -text
+*.png -text
+*.jpg -text
+*.exe -text
+*.dll -text
