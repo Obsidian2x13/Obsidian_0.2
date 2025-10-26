@@ -1,0 +1,4 @@
+timestamp: 20251026_231025_333
+note: stream
+file: C:\Obsidian_0.2\runs\trial_20251026_231025_333_stream\vectorflow.pdf
+size_bytes: 1291

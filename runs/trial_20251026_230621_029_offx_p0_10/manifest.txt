@@ -1,0 +1,4 @@
+timestamp: 20251026_230621_029
+note: offx_p0_10
+file: C:\Obsidian_0.2\runs\trial_20251026_230621_029_offx_p0_10\vectorflow.pdf
+size_bytes: 1291

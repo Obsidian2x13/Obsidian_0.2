@@ -1,0 +1,25 @@
+width_mm: 100
+height_mm: 100
+offset_x: 0.1
+scale: 0.992
+rotation_deg: 0.32
+objects:
+- type: grid
+  step_mm: 10
+- type: frame
+  margin: 5
+- type: axis
+  origin:
+  - 50
+  - 50
+  length: 40
+- type: cross
+  at:
+  - 50
+  - 50
+  size: 6
+- type: text
+  at:
+  - 6
+  - 10
+  value: VectorFlow fpdf2

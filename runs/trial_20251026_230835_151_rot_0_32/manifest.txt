@@ -1,0 +1,4 @@
+timestamp: 20251026_230835_151
+note: rot_0_32
+file: C:\Obsidian_0.2\runs\trial_20251026_230835_151_rot_0_32\vectorflow.pdf
+size_bytes: 1291
