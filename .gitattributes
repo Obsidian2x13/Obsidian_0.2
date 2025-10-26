@@ -5,4 +5,11 @@
 *.sh   text eol=lf
 *.yml  text eol=lf
 *.yaml text eol=lf
-*.md   text eol=lf
+*.md   text eol=lf# binaria  bez dotykania EOL
+*.zip -text
+*.7z  -text
+*.pdf -text
+*.png -text
+*.jpg -text
+*.exe -text
+*.dll -text
