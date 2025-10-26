@@ -7,3 +7,10 @@
 *.yml           text eol=lf
 *.yaml          text eol=lf
 *.json          text eol=lf
+*.zip   -text
+*.7z    -text
+*.pdf   -text
+*.png   -text
+*.jpg   -text
+*.jpeg  -text
+*.gif   -text
